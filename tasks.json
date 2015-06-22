@@ -1,0 +1,11 @@
+{
+    "type": "com.google.eclipse.mechanic.UriTaskProviderModel",
+    "metadata": {
+        "description": "my set of tasks",
+        "name": "Me",
+        "contact": "me"
+    },
+    "tasks": [
+        "codestyle.epf"
+    ]
+}
