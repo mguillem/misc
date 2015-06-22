@@ -6,6 +6,7 @@
         "contact": "me"
     },
     "tasks": [
-        "codestyle.epf"
+        "codestyle.epf",
+        "maven.epf"
     ]
 }
