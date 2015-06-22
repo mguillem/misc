@@ -1,0 +1,12 @@
+# @title Maven Configuration
+# @description Common Maven Configuration
+# @task_type RECONCILE
+# @expand_variables true
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Jun 22 14:26:22 CEST 2015
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=apache-maven-3.0.5
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.0.5/type=EXTERNAL
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.0.5/location=${abx_InstallationBase}\\maven\\apache-maven-3.0.5
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimes=apache-maven-3.0.5
